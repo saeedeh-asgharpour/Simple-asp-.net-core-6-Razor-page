@@ -20,7 +20,7 @@ namespace RazorPizzeria.Pages
                 BasePrise=4,
                 TomatoSauce=true,
                 Cheese=true,
-                FinalPrice=4 },
+                FinalPrice=16 },
 
                 new PizzasModel() { ImageTitle="Create" ,
                 PizzaName = "Create",
